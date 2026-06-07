@@ -2,7 +2,7 @@
 
 A clean, minimalist, and modern theme for the GRUB bootloader.
 
-![Preview Placeholder](https://via.placeholder.com/800x450?text=Add+your+screenshot+here)
+![Preview Placeholder](https://raw.githubusercontent.com/codeturbulent/trec-grub-theme/refs/heads/main/trec-theme/background.png)
 
 ## Features
 
